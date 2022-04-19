@@ -105,13 +105,13 @@ annotations:
     reference: ''
     span:
       start: 17256
-      end: 19086
+      end: 19166
   707de72292ed446cafee40700e100882:
     imgnum: 71
     reference: ''
     span:
-      start: 19088
-      end: 19121
+      start: 19168
+      end: 19201
   cf5125f3e15048a89a6217b4aeaf62a7:
     imgnum: 72
     reference: ''
