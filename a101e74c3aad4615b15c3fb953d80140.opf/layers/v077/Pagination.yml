@@ -42,76 +42,76 @@ annotations:
     reference: ''
     span:
       start: 5730
-      end: 7034
+      end: 7030
     note_ref: 91ceb97a320d4dddaf3cc2615134005d
   468b1c83359946d18b496d9a1008f833:
     imgnum: 62
     reference: ''
     span:
-      start: 7036
-      end: 8311
+      start: 7032
+      end: 8307
     note_ref: 91ceb97a320d4dddaf3cc2615134005d
   82503c7df0e242598702a0bc8d0d600c:
     imgnum: 63
     reference: ''
     span:
-      start: 8313
-      end: 9613
+      start: 8309
+      end: 9609
     note_ref: 91ceb97a320d4dddaf3cc2615134005d
   a8abc57ec0d34db2adf1e4a5b5b83552:
     imgnum: 64
     reference: ''
     span:
-      start: 9615
-      end: 10971
+      start: 9611
+      end: 10967
     note_ref: 91ceb97a320d4dddaf3cc2615134005d
   a3d3ac05e6f4427a9f04cff32bdf6987:
     imgnum: 65
     reference: ''
     span:
-      start: 10973
-      end: 12302
+      start: 10969
+      end: 12298
     note_ref: 91ceb97a320d4dddaf3cc2615134005d
   0db5c80a63774a1787af7a0d290bc1c7:
     imgnum: 66
     reference: ''
     span:
-      start: 12304
-      end: 13650
+      start: 12300
+      end: 13646
     note_ref: 91ceb97a320d4dddaf3cc2615134005d
   0a858928c1a6447a923173440fb60859:
     imgnum: 67
     reference: ''
     span:
-      start: 13652
-      end: 14947
+      start: 13648
+      end: 14943
     note_ref: 91ceb97a320d4dddaf3cc2615134005d
   1c7ecc73ef7e4ca3a804d9f976c7a51f:
     imgnum: 68
     reference: ''
     span:
-      start: 14949
-      end: 16251
+      start: 14945
+      end: 16247
     note_ref: 91ceb97a320d4dddaf3cc2615134005d
   7df1faf90afb4f2f870e0cbb3b171224:
     imgnum: 69
     reference: ''
     span:
-      start: 16253
-      end: 17258
+      start: 16249
+      end: 17254
     note_ref: 91ceb97a320d4dddaf3cc2615134005d
   91ceb97a320d4dddaf3cc2615134005d:
     imgnum: 70
     reference: ''
     span:
-      start: 17260
-      end: 19063
+      start: 17256
+      end: 19064
   707de72292ed446cafee40700e100882:
     imgnum: 71
     reference: ''
     span:
-      start: 19065
-      end: 19098
+      start: 19066
+      end: 19099
   cf5125f3e15048a89a6217b4aeaf62a7:
     imgnum: 72
     reference: ''
